@@ -21,5 +21,5 @@ const DEFAULT_PRODUCTS = [
 ];
 
 // Identifiants admin — CHANGEZ CES VALEURS avant de déployer !
-const ADMIN_USER = 'admin';
-const ADMIN_PASS = 'admin123';
+const ADMIN_USER = 'badr';
+const ADMIN_PASS = 'Haytem2504@';
